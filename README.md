@@ -1,3 +1,3 @@
- Calculadora
+## **Calculadora**
 
-Projeto de uma calculadora desenvolvido para estudo
+Projeto de uma calculadora desenvolvido para estudo.
