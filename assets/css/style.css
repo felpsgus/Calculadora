@@ -8,7 +8,7 @@ h1 {
 }
 
 .fundo {
-  background-image: url("./gif.gif");
+  background-image: url("../img/gif.gif");
   background-size: cover;
   background-repeat: no-repeat;
   color: #e6e6e6;
